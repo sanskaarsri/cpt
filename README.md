@@ -39,7 +39,13 @@ Before using this system, you'll need:
 
 ## Deployment
 
-You can deploy this code on Azure as a web application or service for wider accessibility. Follow the steps mentioned in the "Can we deploy this code on Azure?" section to deploy it successfully.
+You can deploy this code on Azure as a web application or service for wider accessibility. 
+
+Ensure that you have an Azure account. 
+Decide on the deployment approach. You can deploy the code as a web app or create an Azure Function (for serverless deployment) depending on your specific requirements.
+You'll need a server to host your code. You can create a virtual machine or use Azure's App Service for web app hosting.
+Ensure that the required libraries, including Python and the necessary packages, are installed on the virtual machine or app service.
+You will need to upload and deploy your code to the virtual machine or web app
 
 ## Contributing
 
