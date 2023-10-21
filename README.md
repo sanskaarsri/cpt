@@ -28,20 +28,20 @@ Before using this system, you'll need:
 
 ## Features
 
--Register Screen.
--Sign-in Screen.
--Generates database for user login system.
--Offers you a GUI Based Chatbot for patients for diagnosing. 
--Reccomends an appropriate doctor to you for the following symptom.
+- Register Screen.
+- Sign-in Screen.
+- Generates database for user login system.
+- Offers you a GUI Based Chatbot for patients for diagnosing. 
+- Reccomends an appropriate doctor to you for the following symptom.
 
-##Modules Used
+## Modules Used
 
--tkinter
--os
--webbrowser
--numpy
--pandas
--matplotlib
+- tkinter
+- os
+- webbrowser
+- numpy
+- pandas
+- matplotlib
 
 
 ## Usage
