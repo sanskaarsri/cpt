@@ -1,7 +1,7 @@
 # CLOUD_PERFORMANCE_TUNING
 # Health Hub
 
-Welcome to the Health Hub ! This Python code helps you check and predict possible medical conditions based on the symptoms you input.
+Welcome to the Health Hub ! This Python code helps you check and predict possible medical conditions based on your choice. It helps to predict the disease and also give valid response and doctors to consult for that particular disease.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the Health Hub ! This Python code helps you check and predict possibl
 
 ## Introduction
 
-This code is a simple medical diagnosis system that uses machine learning to analyze symptoms and suggest possible medical conditions. It's designed to assist users in identifying potential health issues based on the symptoms they provide.
+The healthcare chatbot system is designed to offer around-the-clock online healthcare support for hospitals. It has the capability to provide comprehensive answers to both specific and general medical inquiries. Additionally, the chatbot can assist in lead generation and automatically send lead information to the sales department. Through a sequential series of questions, it guides patients to pinpoint their exact healthcare needs and preferences.
 
 
 ## Prerequisites
