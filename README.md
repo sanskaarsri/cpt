@@ -6,8 +6,9 @@ Welcome to the Health Hub ! This Python code helps you check and predict possibl
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
+- [Features](#Features)
+- [Modules used](#modulesused)
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
@@ -16,15 +17,32 @@ Welcome to the Health Hub ! This Python code helps you check and predict possibl
 
 This code is a simple medical diagnosis system that uses machine learning to analyze symptoms and suggest possible medical conditions. It's designed to assist users in identifying potential health issues based on the symptoms they provide.
 
-## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 Before using this system, you'll need:
 
 - A Python environment with the necessary libraries installed.
 - Training and testing data in CSV format (provided as 'Training.csv' and 'Testing.csv' here).
 - An Azure account if you wish to deploy this code as a web service.
+
+## Features
+
+-Register Screen.
+-Sign-in Screen.
+-Generates database for user login system.
+-Offers you a GUI Based Chatbot for patients for diagnosing. 
+-Reccomends an appropriate doctor to you for the following symptom.
+
+##Modules Used
+
+-tkinter
+-os
+-webbrowser
+-numpy
+-pandas
+-matplotlib
+
 
 ## Usage
 
